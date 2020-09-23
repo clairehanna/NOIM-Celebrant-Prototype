@@ -1,6 +1,7 @@
-Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/2020. Please review it and complete the section at the bottom before the ceremony.
-
 <h1> Notice of Intended Marriage </h1>
+
+Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/2020. Please review it and complete the section at the bottom BEFORE the ceremony.
+
 <h2> Details of the parties intending to marry: </h2> 
 <h3> Party 1 </h3> 
 <div class="nsw-forms">
@@ -587,36 +588,13 @@ Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/202
             <span class="nsw-form-legend-text">Location</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{ceremonylocation}" id="{ceremonylocation}" value="Grand Fountain Hall">
+               <input class="nsw-form-text__input" type="text" name="{ceremonylocation}" id="{ceremonylocation}" value="Grand Fountain Hall, NSW">
             </div>
            </fieldset>
         </div>
     </div>
     </div>
-<div class="nsw-forms">
-        <div class="nsw-form-group">
-            <fieldset class="nsw-form-fieldset">
-            <legend>
-            <span class="nsw-form-legend-text">Rites used</span>
-            </legend>
-            <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{ceremonyrites}" id="{ceremonyrites}" value="According to the Marriage Act 1961">
-            </div>
-           </fieldset>
-        </div>
-    </div>
-<div class="nsw-forms">
-        <div class="nsw-form-group">
-            <fieldset class="nsw-form-fieldset">
-            <legend>
-            <span class="nsw-form-legend-text">Place marriage solemnised</span>
-            </legend>
-            <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{ceremonyplacesolemnised}" id="{ceremonyplacesolemnised}" value="Grand Fountain Hall">
-            </div>
-           </fieldset>
-        </div>
-    </div>
+
         
 <p>
 <a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/submit/" class="nsw-button nsw-button--primary">Submit</a>        
