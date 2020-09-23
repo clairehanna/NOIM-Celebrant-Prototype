@@ -61,10 +61,99 @@ If these dates are correct, please review the Notice of Intended Marriage below 
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Place marriage solemnised</span>
+            <span class="nsw-form-legend-text">Registration number of birth certificate</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{ceremonyplacesolemnised}" id="{ceremonyplacesolemnised}" value="Grand Fountain Hall, NSW">
+               <input class="nsw-form-text__input" type="text" name="{birthcertnumber}" id="{party1birthcertnumber}" value="1234567890">
             </div>
            </fieldset>
         </div>
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Statutory declaration</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationyes}" checked>
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationno}">
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>  
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Australian or foreign passport produced</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportyes}" checked>
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportno}">
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>       
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Passport number</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{passportnumber}" id="{party1passportnumber}" value="1234567890">
+            </div>
+           </fieldset>
+        </div>        
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Current drivers licence produced</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1licenceyes}" checked>
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1licenceno}">
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>          
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Drivers licence number</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{licencenumber}" id="{party1licencenumber}" value="1234567890">
+            </div>
+           </fieldset>
+        </div>         
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Current proof of age card or evidence of age card produced</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofage}">
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageno}" checked>
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>         
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Proof of age card number or evidence of age card number</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{proofofagenumber}" id="{party1proofofagenumber}">
+            </div>
+           </fieldset>
+        </div>            
