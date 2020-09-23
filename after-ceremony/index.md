@@ -157,3 +157,17 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>            
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Current proof of age card or evidence of age card produced</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofage}">
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageno}" checked>
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>   
