@@ -11,7 +11,7 @@ Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/202
             <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="true">
+               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="On">
                <label class="nsw-form-radio__label" for="{party1description1}">Groom</label>
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description2}">
                <label class="nsw-form-radio__label" for="{party1description2}">Bride</label>
