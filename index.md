@@ -543,6 +543,7 @@ Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/202
 
 
 <h2> Details of planned marriage ceremony: </h2>
+<h3> To be completed by the celebrant </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
