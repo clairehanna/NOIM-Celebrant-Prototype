@@ -2,7 +2,7 @@
 
 Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/2020. The details of the planned marriage ceremony were entered by the celebrant on 24/09/2020. Please review it and complete the section at the bottom before the ceremony.
 
-<h2> Particulars to be completed by authorised celebrant after the marriage ceremony <h2>
+<h2> Particulars to be completed by authorised celebrant after the marriage ceremony </h2>
 
 <div class="nsw-forms">
         <div class="nsw-form-group">
@@ -23,7 +23,7 @@ Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/202
             <span class="nsw-form-legend-text">Place marriage solemnised</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{ceremonyplacesolemnised}" id="{ceremonyplacesolemnised}" value="Grand Fountain Hall">
+               <input class="nsw-form-text__input" type="text" name="{ceremonyplacesolemnised}" id="{ceremonyplacesolemnised}" value="Grand Fountain Hall, NSW">
             </div>
            </fieldset>
         </div>
