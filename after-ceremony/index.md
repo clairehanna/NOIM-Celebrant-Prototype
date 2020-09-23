@@ -17,7 +17,6 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>
-    </div>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -29,7 +28,6 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>
-    </div>    
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -41,9 +39,11 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>
-     </div>
-     
+        
+        
 <h3> Party 1 - Kel Knight </h3>
+
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -57,3 +57,14 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>  
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Place marriage solemnised</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{ceremonyplacesolemnised}" id="{ceremonyplacesolemnised}" value="Grand Fountain Hall, NSW">
+            </div>
+           </fieldset>
+        </div>
