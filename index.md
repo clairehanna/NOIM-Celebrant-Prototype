@@ -1,7 +1,7 @@
 Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/2020. Please review it and complete the section at the bottom before the ceremony.
 
 <h1> Notice of Intended Marriage </h1>
-<h2> Please provide the details of the parties intending to marry: </h2> 
+<h2> Details of the parties intending to marry: </h2> 
 <h3> Party 1 </h3> 
 <div class="nsw-forms">
         <div class="nsw-form-group">
