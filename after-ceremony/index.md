@@ -250,7 +250,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Consents received</span>
+            <span class="nsw-form-legend-text">Court approval</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party1courtapproval}" id="{party1courtapprovalyes}">
@@ -474,7 +474,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Consents received</span>
+            <span class="nsw-form-legend-text">Court approval</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party2courtapproval}" id="{party2courtapprovalyes}">
