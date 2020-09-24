@@ -42,7 +42,6 @@ If these dates are correct, please review the Notice of Intended Marriage below 
         
         
 <h3> Party 1 - Kel Knight </h3>
-
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -260,9 +259,9 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <span class="nsw-form-legend-text">Birth certificate produced</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party2birthcertyes}" checked>
+               <input class="nsw-form-radio__input" type="radio" name="{birthcert2}" id="{party2birthcertyes}" checked>
                <label class="nsw-form-radio__label" for="{party2birthcertyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party2birthcertno}">
+               <input class="nsw-form-radio__input" type="radio" name="{birthcert2}" id="{party2birthcertno}">
                <label class="nsw-form-radio__label" for="{party2birthcertno}">N/A</label>
             </div>
            </fieldset>
