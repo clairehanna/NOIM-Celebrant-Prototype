@@ -5,7 +5,7 @@ Kel Knight and Kath Day submitted their Notice of Intended Marriage on 23/09/202
 If these dates are correct, please review the Notice of Intended Marriage below and complete the section at the bottom AFTER the ceremony. 
 
 <h2> Particulars to be completed by authorised celebrant after the marriage ceremony: </h2>
-
+<h3> Ceremony details </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -41,7 +41,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
         </div>
         
         
-<h3> Party 1 - Kel Knight </h3>
+<h3> Particulars relating to Party 1 (Kel Knight) </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -217,7 +217,20 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div> 
-
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Have you given the document referred to in subsection 42(5A) of the Act to the party?</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{party1document}" id="{party1documentyes}" checked>
+               <label class="nsw-form-radio__label" for="{party1documentyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{party1document}" id="{party1documentno}">
+               <label class="nsw-form-radio__label" for="{party1documentno}">No</label>
+            </div>
+           </fieldset>
+        </div> 
 <h4> For marriage of a party under 18 years: </h4>       
 <div class="nsw-forms">
         <div class="nsw-form-group">
@@ -247,10 +260,10 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div>      
+          
         
         
-        
-<h3> Party 2 - Kath Day </h3>
+<h3> Particulars relating to Party 2 (Kath Day) </h3>
 
 <div class="nsw-forms">
         <div class="nsw-form-group">
@@ -427,7 +440,21 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </div>
            </fieldset>
         </div> 
-
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Have you given the document referred to in subsection 42(5A) of the Act to the party?</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{party2document}" id="{party2documentyes}" checked>
+               <label class="nsw-form-radio__label" for="{party2documentyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{party2document}" id="{party2documentno}">
+               <label class="nsw-form-radio__label" for="{party2documentno}">No</label>
+            </div>
+           </fieldset>
+        </div> 
+        
 <h4> For marriage of a party under 18 years: </h4>       
 <div class="nsw-forms">
         <div class="nsw-form-group">
@@ -458,4 +485,42 @@ If these dates are correct, please review the Notice of Intended Marriage below 
            </fieldset>
         </div>              
         
+<h3> Late notice: </h3>       
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Authority for marriage despite late notice</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{latenotice}" id="{latenoticeyes}">
+               <label class="nsw-form-radio__label" for="{latenoticeyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{latenotice}" id="{latenoticeno}" checked>
+               <label class="nsw-form-radio__label" for="{latenoticeno}">N/A</label>
+            </div>
+           </fieldset>
+        </div>     
         
+<h3> Celebrant: </h3>  
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Celebrant's number</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{celebrantnumber}" id="{celebrantnumber}" value="1234567890">
+            </div>
+           </fieldset>
+        </div> 
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Celebrant's signature</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{celebrantsignature}" id="{celebrantsignature}" value="CS">
+            </div>
+           </fieldset>
+        </div> 
