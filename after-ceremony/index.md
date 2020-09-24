@@ -51,9 +51,9 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party1birthcertyes}" checked>
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <label class="nsw-form-radio__label" for="{party1birthcertyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party1birthcertno}">
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <label class="nsw-form-radio__label" for="{party1birthcertno}">No</label>
             </div>
            </fieldset>
         </div>  
@@ -76,9 +76,9 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationyes}" checked>
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <label class="nsw-form-radio__label" for="{party1statutorydeclarationyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationno}">
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <label class="nsw-form-radio__label" for="{party1statutorydeclarationno}">No</label>
             </div>
            </fieldset>
         </div>  
@@ -90,9 +90,9 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportyes}" checked>
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <label class="nsw-form-radio__label" for="{party1passportyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportno}">
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <label class="nsw-form-radio__label" for="{party1passportno}">No</label>
             </div>
            </fieldset>
         </div>       
@@ -114,10 +114,10 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <span class="nsw-form-legend-text">Current drivers licence produced</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1licenceyes}" checked>
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1licenceno}">
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1driverslicenceyes}" checked>
+               <label class="nsw-form-radio__label" for="{party1driverslicenceyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1driverslicenceno}">
+               <label class="nsw-form-radio__label" for="{party1driverslicenceno}">No</label>
             </div>
            </fieldset>
         </div>          
@@ -139,10 +139,10 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <span class="nsw-form-legend-text">Current proof of age card or evidence of age card produced</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofage}">
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageyes}">
+               <label class="nsw-form-radio__label" for="{party1proofofageyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageno}" checked>
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <label class="nsw-form-radio__label" for="{party1proofofageno}">No</label>
             </div>
            </fieldset>
         </div>         
@@ -164,10 +164,10 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <span class="nsw-form-legend-text">Current identification card displaying the cardholder's photograph produced</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoID}">
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoID}" checked>
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoIDyes}">
+               <label class="nsw-form-radio__label" for="{party1photoIDyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoIDno}" checked>
+               <label class="nsw-form-radio__label" for="{party1photoIDno}">No</label>
             </div>
            </fieldset>
         </div>   
@@ -200,10 +200,37 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <span class="nsw-form-legend-text">Evidence of death, nullity or dissolution</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidence}">
-               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidence}">
-               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidenceyes}">
+               <label class="nsw-form-radio__label" for="{party1evidenceyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidenceno}">
+               <label class="nsw-form-radio__label" for="{party1evidenceno}">No</label>
             </div>
            </fieldset>
         </div>          
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">If dissolution or nullity, insert Court location</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{courtlocation}" id="{party1courtlocation}">
+            </div>
+           </fieldset>
+        </div> 
+
+<h3> For marriage of a party under 18 years: </h3>       
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Consents received</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{consents}" id="{party1consentsyes}">
+               <label class="nsw-form-radio__label" for="{party1consentsyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1ceonsentsno}">
+               <label class="nsw-form-radio__label" for="{party1consentsno}">No</label>
+            </div>
+           </fieldset>
+        </div>         
