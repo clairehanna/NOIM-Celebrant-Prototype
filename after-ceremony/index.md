@@ -53,7 +53,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party1birthcertyes}" checked>
                <label class="nsw-form-radio__label" for="{party1birthcertyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{birthcert}" id="{party1birthcertno}">
-               <label class="nsw-form-radio__label" for="{party1birthcertno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1birthcertno}">N/A</label>
             </div>
            </fieldset>
         </div>  
@@ -78,7 +78,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationyes}" checked>
                <label class="nsw-form-radio__label" for="{party1statutorydeclarationyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{statutorydeclaration}" id="{party1statutorydeclarationno}">
-               <label class="nsw-form-radio__label" for="{party1statutorydeclarationno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1statutorydeclarationno}">N/A</label>
             </div>
            </fieldset>
         </div>  
@@ -92,7 +92,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportyes}" checked>
                <label class="nsw-form-radio__label" for="{party1passportyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{passport}" id="{party1passportno}">
-               <label class="nsw-form-radio__label" for="{party1passportno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1passportno}">N/A</label>
             </div>
            </fieldset>
         </div>       
@@ -117,7 +117,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1driverslicenceyes}" checked>
                <label class="nsw-form-radio__label" for="{party1driverslicenceyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{driverslicence}" id="{party1driverslicenceno}">
-               <label class="nsw-form-radio__label" for="{party1driverslicenceno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1driverslicenceno}">N/A</label>
             </div>
            </fieldset>
         </div>          
@@ -142,7 +142,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageyes}">
                <label class="nsw-form-radio__label" for="{party1proofofageyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{proofofage}" id="{party1proofofageno}" checked>
-               <label class="nsw-form-radio__label" for="{party1proofofageno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1proofofageno}">N/A</label>
             </div>
            </fieldset>
         </div>         
@@ -167,7 +167,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
                <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoIDyes}">
                <label class="nsw-form-radio__label" for="{party1photoIDyes}">Yes</label>
                <input class="nsw-form-radio__input" type="radio" name="{photoID}" id="{party1photoIDno}" checked>
-               <label class="nsw-form-radio__label" for="{party1photoIDno}">No</label>
+               <label class="nsw-form-radio__label" for="{party1photoIDno}">N/A</label>
             </div>
            </fieldset>
         </div>   
@@ -202,8 +202,8 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidenceyes}">
                <label class="nsw-form-radio__label" for="{party1evidenceyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidenceno}">
-               <label class="nsw-form-radio__label" for="{party1evidenceno}">No</label>
+               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1evidenceno}" checked>
+               <label class="nsw-form-radio__label" for="{party1evidenceno}">N/A</label>
             </div>
            </fieldset>
         </div>          
@@ -229,8 +229,8 @@ If these dates are correct, please review the Notice of Intended Marriage below 
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{consents}" id="{party1consentsyes}">
                <label class="nsw-form-radio__label" for="{party1consentsyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1ceonsentsno}">
-               <label class="nsw-form-radio__label" for="{party1consentsno}">No</label>
+               <input class="nsw-form-radio__input" type="radio" name="{evidence}" id="{party1ceonsentsno}" checked>
+               <label class="nsw-form-radio__label" for="{party1consentsno}">N/A</label>
             </div>
            </fieldset>
         </div>         
