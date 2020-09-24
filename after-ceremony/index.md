@@ -219,7 +219,7 @@ If these dates are correct, please review the Notice of Intended Marriage below 
            </fieldset>
         </div> 
 
-<h3> For marriage of a party under 18 years: </h3>       
+<h4> For marriage of a party under 18 years: </h4>       
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
