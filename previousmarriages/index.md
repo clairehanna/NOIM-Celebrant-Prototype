@@ -1,4 +1,4 @@
-<h2> Previous marriages </h2>
+<h2> Previous marriages: </h2>
 <h3> Party 1 (Kel Knight) </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
