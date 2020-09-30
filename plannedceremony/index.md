@@ -49,7 +49,7 @@
         </div>
     </div>
         
-<p>
+<h3>
 <a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/submit/" class="nsw-button nsw-button--primary">Submit</a>        
-       </p>
+       </h3>
 
