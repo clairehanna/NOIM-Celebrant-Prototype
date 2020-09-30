@@ -23,5 +23,5 @@
         </div> 
         
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/submit/" class="nsw-button nsw-button--primary">Submit</a>        
+<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/submit2/" class="nsw-button nsw-button--primary">Submit</a>        
        </h3>
