@@ -29,3 +29,6 @@
            </fieldset>
         </div>              
         
+<h3>
+<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/latenotice/" class="nsw-button nsw-button--primary">Save and continue</a>        
+       </h3>
