@@ -28,6 +28,6 @@
         
 
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/party2identification/" class="nsw-button nsw-button--primary">Save and continue</a>        
+<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/party1document/" class="nsw-button nsw-button--primary">Save and continue</a>        
        </h3>
         
