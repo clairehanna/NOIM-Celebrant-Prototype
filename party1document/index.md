@@ -1,4 +1,4 @@
-        
+<div class="nsw-forms">        
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
