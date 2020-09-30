@@ -34,5 +34,5 @@
         </div>
         
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/party1identification/" class="nsw-button nsw-button--primary">Save and continue</a>        
+<a href="https://clairehanna.github.io/NOIM-Celebrant-Prototype/identification/" class="nsw-button nsw-button--primary">Save and continue</a>        
        </h3>        
