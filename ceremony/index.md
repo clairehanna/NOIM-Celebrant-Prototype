@@ -1,4 +1,4 @@
-<h2> Ceremony details </h2>
+<h2> Ceremony details: </h2>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
