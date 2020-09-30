@@ -21,7 +21,7 @@
             <span class="nsw-form-legend-text">If dissolution or nullity, insert Court location</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{courtlocation}" id="{party1courtlocation}" value="14/09/2015">
+               <input class="nsw-form-text__input" type="text" name="{courtlocation}" id="{party1courtlocation}" value="Melbourne CBD">
             </div>
            </fieldset>
         </div> 
